@@ -1,2 +1,1 @@
-zlib1g-dev # but zlib already there, we need to append
-libjpeg-dev
+zlib1g-dev
